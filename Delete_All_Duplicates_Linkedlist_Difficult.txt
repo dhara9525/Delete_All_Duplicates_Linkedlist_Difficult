@@ -1,4 +1,6 @@
-Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list.
+Program source: Leetcode
+Program: Given a sorted linked list, delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list.
+Submission Detail: 168 / 168 test cases passed.
 
 Example 1:
 
